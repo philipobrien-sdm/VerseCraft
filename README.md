@@ -1,14 +1,18 @@
 # VerseCraft - AI Poetry Tutor
 
 VerseCraft is a sophisticated web application designed to help poets refine their craft. It combines real-time structural validation (syllable counting, rhyme schemes) with deep, qualitative feedback powered by Google's Gemini API.
+<img width="900" height="400" alt="Screenshot 2025-12-12 085750" src="https://github.com/user-attachments/assets/4a9106d7-3110-4a20-8df5-5a749f983106" />
 
-![VerseCraft UI](https://via.placeholder.com/800x400?text=VerseCraft+Interface)
+
 
 ## 🎭 What It Is
 VerseCraft is a **tutor**, not a generator.
 *   **Structured Environment:** A clean, distraction-free editor with a "Gutter" that validates line counts and syllables in real-time.
 *   **Pedagogical AI:** It uses the **RBFR** (Role, Behaviour, Function, Reporting) and **SSPSS** (State, Support, Problem, Solve, Summarize) frameworks to act as a literary editor.
 *   **Form Specific:** It understands the constraints of Haikus, Sonnets, Limericks, and Villanelles.
+
+<img width="350" height="350" alt="Screenshot 2025-12-12 085835" src="https://github.com/user-attachments/assets/4f3175bd-4303-4122-bd3f-1ae1d18c08ec" />
+
 
 ## 🚫 What It Is Not
 *   **Not a Poem Generator:** It will not write the poem for you (though it may offer a small revision example to demonstrate a specific technique).
